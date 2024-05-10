@@ -1,0 +1,1 @@
+# 1.2 - Updating Device Firmware

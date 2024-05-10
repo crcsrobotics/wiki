@@ -33,3 +33,5 @@ Download: <https://www.robotc.net/files/download/vex/ROBOTCforVEXRobotics_456Rel
 Info: <https://www.robotc.net/>
 
 Use: Used to write the code for the robot. Can also be used to update VEX Cortex microcontroller.
+
+[Up Next (1.2) ->](https://github.com/crcsrobotics/wiki/blob/main/1%20-%20SETUP/2%20-%20UPDATING%20FIRMWARE.md)
