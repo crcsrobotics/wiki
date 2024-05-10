@@ -5,3 +5,5 @@ RobotC is a C-like language that is easy-to-learn and well-documented. Additiona
 For more complete documentation of the RobotC *language*, see [the Official RobotC Documentation](https://www.robotc.net/WebHelpVEX/index.htm).
 
 This section does not cover Graphical RobotC, a drag-and-drop interface for RobotC. Although Graphical RobotC can be a helpful tool for learning basic concepts, it is very limited in its debug capabilities and what it can do. As such, it is usually not flexible enough to be used on the robot.
+
+[Up Next (2.2) ->](https://github.com/crcsrobotics/wiki/blob/main/2%20-%20ROBOTC/2%20-%20INTRO.md)

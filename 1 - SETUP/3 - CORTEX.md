@@ -29,4 +29,4 @@ The Cortex must be turned on to establish the connection; however, the Joystick 
 
 When the Joystick is plugged in and the Cortex is on, the VEXnet connection should be established and RobotC may be used regularly.
 
-[Up Next (2.1) ->](https://github.com/crcsrobotics/wiki/blob/main/2%20-%20ROBOTC/3%20-%20INTRO.md)
+[Up Next (2.1) ->](https://github.com/crcsrobotics/wiki/blob/main/2%20-%20ROBOTC/1%20-%20INTRO.md)
