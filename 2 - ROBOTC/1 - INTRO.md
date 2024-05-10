@@ -6,4 +6,4 @@ For more complete documentation of the RobotC *language*, see [the Official Robo
 
 This section does not cover Graphical RobotC, a drag-and-drop interface for RobotC. Although Graphical RobotC can be a helpful tool for learning basic concepts, it is very limited in its debug capabilities and what it can do. As such, it is usually not flexible enough to be used on the robot.
 
-[Up Next (2.2) ->](https://github.com/crcsrobotics/wiki/blob/main/2%20-%20ROBOTC/2%20-%20INTRO.md)
+[Up Next (2.2) ->](https://github.com/crcsrobotics/wiki/blob/main/2%20-%20ROBOTC/2%20-%20MOTORS.md)
