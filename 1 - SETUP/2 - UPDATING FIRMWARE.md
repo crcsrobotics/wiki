@@ -42,3 +42,5 @@ Here are the alternative steps for updating the VEX Cortex firmware:
 - Set the platform type to Vex 2.0 Cortex. (**Robot > Platform Type > Vex 2.0 Cortex**)
 - Connect the Cortex to the computer with the A-to-A USB cable supplied by BEST.
 - Select "Firmware Download".
+
+[Up Next (1.3) ->](https://github.com/crcsrobotics/wiki/blob/main/1%20-%20SETUP/3%20-%20CORTEX.md)
