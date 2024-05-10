@@ -1,8 +1,8 @@
 # 1.2 - Updating Device Firmware
 
-This tutorial assumes that you have installed the software outlined in `1.1`. The steps in this section are often not necessary, but they can be helpful if there are connection issues.
+This tutorial assumes that you have installed the software outlined in `1.1`. Most of the steps in this section are often not necessary, but they can be helpful if there are connection issues.
 
-## VEXnet Keys
+## 1.2.1 - VEXnet Keys
 
 Before updating, ensure that both VEXnet Keys are VEXnet 2.0 Keys. VEXnet 2.0 Keys are white and labeled `VEXnet 2.0`, while VEXnet 1.0 Keys are black and just labeled `VEXnet`. VEXnet 1.0 Keys cannot be updated to 2.0 and are not compatible with 2.0 devices. If a VEXnet 1.0 Key is found, contact BEST Robotics for a replacement.
 
@@ -12,7 +12,7 @@ Here are the steps for updating VEXnet 2.0 Keys:
 - Connect a VEXnet Key to your computer.
 - If the key is out-of-date or corrupted, update the VEXnet Key with the utility.
 
-## VEX Joystick
+## 1.2.2 - VEX Joystick
 
 Here are the steps for updating the VEX Joystick firmware:
 
@@ -21,11 +21,11 @@ Here are the steps for updating the VEX Joystick firmware:
 - Select "Joystick".
 - Select "Download".
 
-## VEX Cortex
+## 1.2.3 - VEX Cortex
 
 There are two methods to updated the VEX Cortex Firmware.
 
-### Method One
+### 1.2.3.1 - Method One
 
 Here are the steps for updating the VEX Cortex firmware:
 
@@ -34,7 +34,7 @@ Here are the steps for updating the VEX Cortex firmware:
 - Select "Cortex".
 - Select "Download".
 
-### Method Two
+### 1.2.3.2 - Method Two
 
 Here are the alternative steps for updating the VEX Cortex firmware:
 
