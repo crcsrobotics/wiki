@@ -1,6 +1,6 @@
 # 1.2 - Updating Device Firmware
 
-This tutorial assumes that you have installed the software outlined in `1.1`.
+This tutorial assumes that you have installed the software outlined in `1.1`. The steps in this section are often not necessary, but they can be helpful if there are connection issues.
 
 ## VEXnet Keys
 
@@ -17,7 +17,7 @@ Here are the steps for updating VEXnet 2.0 Keys:
 Here are the steps for updating the VEX Joystick firmware:
 
 - Open the VEXnet Upgrade Utility.
-- Connect the Joystick to the computer with the male-to-male USB cable supplied by BEST.
+- Connect the Joystick to the computer with the A-to-A USB cable supplied by BEST.
 - Select "Joystick".
 - Select "Download".
 
@@ -30,7 +30,7 @@ There are two methods to updated the VEX Cortex Firmware.
 Here are the steps for updating the VEX Cortex firmware:
 
 - Open the VEXnet Upgrade Utility.
-- Connect the Cortex to the computer with the male-to-male USB cable supplied by BEST.
+- Connect the Cortex to the computer with the A-to-A USB cable supplied by BEST.
 - Select "Cortex".
 - Select "Download".
 
@@ -40,5 +40,5 @@ Here are the alternative steps for updating the VEX Cortex firmware:
 
 - Open RobotC.
 - Set the platform type to Vex 2.0 Cortex. (**Robot > Platform Type > Vex 2.0 Cortex**)
-- Connect the Cortex to the computer with the male-to-male USB cable supplied by BEST.
+- Connect the Cortex to the computer with the A-to-A USB cable supplied by BEST.
 - Select "Firmware Download".
