@@ -20,4 +20,6 @@ The wiring order of the motors to the Cortex are listed below. Adjacent items ar
 - Servo Extension Cable (if needed for more wire length)
 - Servo
 
+Confirm that all servo wires are connected facing the correct way (white to white, black to black, red to red).
+
 [Up Next (3.2) ->](https://github.com/crcsrobotics/wiki/blob/main/3%20-%20WIRING/2%20-%20IR%20SENSORS.md)
