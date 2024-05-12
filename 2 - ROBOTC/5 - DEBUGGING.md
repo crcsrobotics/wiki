@@ -12,4 +12,4 @@ Debugger windows are available for monitoring variables, joystick values, and de
 
 Debug text can be output using the `writeDebugStreamLine` command.
 
-[Up Next (2.6) ->](https://github.com/crcsrobotics/wiki/blob/main/2%20-%20ROBOTC/6%20-%20COMMON%20TASKS.md)
+[Up Next (2.6) ->](https://github.com/crcsrobotics/wiki/blob/main/2%20-%20ROBOTC/6%20-%20AUTOMATION.md)
