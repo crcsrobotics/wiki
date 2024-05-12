@@ -4,10 +4,10 @@ The wiring order of the motors to the Cortex are listed below. Adjacent items ar
 
 ## 3.1.1 - Large/Small Motors
 
-- Motor Port 2-8 (*Do not attempt to use 1 or 10. These are against the rules.*)
+- Cortex Motor Port 2-8 (*Do not attempt to use 1 or 10. These are against the rules.*)
 - VEX Motor Controller
 - Screw Terminal Motor Interface Cable (2-wire interface)
-- Screw Terminal
+- Motor Screw Terminal (2-wire interface)
 - Consumable Copper Wire (Solder to motor)
 - Large/Small Motor
 
@@ -20,4 +20,4 @@ The wiring order of the motors to the Cortex are listed below. Adjacent items ar
 - Servo Extension Cable (if needed for more wire length)
 - Servo
 
-[Up Next (3.2) ->](https://github.com/crcsrobotics/wiki/blob/main/3%20-%20WIRING/1%20-%20IR%20SENSORS.md)
+[Up Next (3.2) ->](https://github.com/crcsrobotics/wiki/blob/main/3%20-%20WIRING/2%20-%20IR%20SENSORS.md)

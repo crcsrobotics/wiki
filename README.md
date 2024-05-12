@@ -26,6 +26,7 @@ Looking to get started? [Check out the setup section.](https://github.com/crcsro
 ### 3 - WIRING
 
 - 3.1 - Motor Wiring
-- 3.2 - IR Sensor Wiring 
+- 3.2 - IR Sensor Wiring
+- 3.3 - Other Sensors
 
 ###### Thanks for being an awesome team! :) Hope this is helpful! - Atticus
