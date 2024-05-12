@@ -21,3 +21,5 @@ The major downside of this technique is that it is unreliable. Any small change 
 Using distance playback, the path is followed by recording the distance the robot travels using the RobotC debug stream. Like with input playback, the debug output is parsed and converted to code. To record the distance the robot travels, dark tape must be equally spaced on the robot wheels. The robot uses an IR sensor to detect these lines to count how many rotations the wheel is making. Upon playback, the robot rotates the wheels the same amount of times to repeat the desired path. This technique has not yet been used by our team.
 
 The upside of this technique is that it is (theoretically) more reliable than input playback. The downside of this technique is that it is significantly more difficult to implement in code and also requires hardware modifications to the robot.
+
+[Up Next (3.1) ->](https://github.com/crcsrobotics/wiki/blob/main/3%20-%20WIRING/1%20-%20MOTORS.md)
