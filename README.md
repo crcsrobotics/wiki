@@ -1,8 +1,10 @@
-# CRCS BEST Robotics Team Software Wiki
+# CRCS BEST Robotics Team Wiki
 
-A single knowledge base for BEST Robotics software used by the team
+This wiki aims to be a single knowledge base for all of the software and electronics used by the CRCS Robotics Team. This wiki contains information on how to use software, update device firmware, and wire hardware to the VEX Cortex. It also contains links to other resources with detailed information about components and tasks.
 
-Looking to get started? [Start here.](https://github.com/crcsrobotics/wiki/blob/main/1%20-%20SETUP/1%20-%20SOFTWARE.md)
+If information is missing or the hardware or software changes, [please update this wiki!](https://github.com/crcsrobotics/wiki/pulls)
+
+Looking to get started? [Check out the setup section.](https://github.com/crcsrobotics/wiki/blob/main/1%20-%20SETUP/1%20-%20SOFTWARE.md)
 
 ## Table of Contents
 
@@ -24,3 +26,6 @@ Looking to get started? [Start here.](https://github.com/crcsrobotics/wiki/blob/
 ### 3 - WIRING
 
 - 3.1 - Motor Wiring
+- 3.2 - IR Sensor Wiring 
+
+###### Thanks for being an awesome team! :) Hope this is helpful! - Atticus
