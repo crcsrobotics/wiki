@@ -29,4 +29,9 @@ Looking to get started? [Check out the setup section.](https://github.com/crcsro
 - 3.2 - IR Sensor Wiring
 - 3.3 - Other Sensors
 
+### 4 - TROUBLESHOOTING
+
+- 4.1 - Cortex Troubleshooting
+- 4.2 - VEXnet Troubleshooting
+
 ###### Thanks for being an awesome team! :) Hope this is helpful! - Atticus
