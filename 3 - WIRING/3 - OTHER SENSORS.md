@@ -12,4 +12,4 @@ Adjacent items are connected to each other.
 
 Sensor I/O wiring may not line up with the VEX Cortex sensor port wiring. Check the documentation for the VEX Cortex and the sensor if wiring is not working.
 
-[Up Next (4.1) ->](https://github.com/crcsrobotics/wiki/blob/main/4%20-%20TROUBLESHOOTING/1%20-%CORTEX.md)
+[Up Next (4.1) ->](https://github.com/crcsrobotics/wiki/blob/main/4%20-%20TROUBLESHOOTING/1%20-%20CORTEX.md)
