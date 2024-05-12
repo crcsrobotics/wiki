@@ -20,3 +20,4 @@ The wiring order of the motors to the Cortex are listed below. Adjacent items ar
 - Servo Extension Cable (if needed for more wire length)
 - Servo
 
+[Up Next (3.2) ->](https://github.com/crcsrobotics/wiki/blob/main/3%20-%20WIRING/1%20-%20IR%20SENSORS.md)
