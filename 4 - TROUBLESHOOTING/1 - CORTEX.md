@@ -58,3 +58,22 @@ The robot battery is almost dead.
 1. Turn off Cortex.
 2. Connect new battery.
 3. Turn on Cortex.
+
+## 4.1.4 - The robot light is blinking red.
+
+### 4.1.4.1 - Corrupted Firmware/Code
+
+The Cortex code download may have been unsuccessful and the onboard firmware may be corrupted.
+
+1. Re-download the master firmware to the Cortex.
+2. Re-download the code to the robot.
+3. If using VEXnet and this happens repeatedly, use direct USB cable connection between Cortex and computer and repeat above steps.
+
+### 4.1.4.2 - Fatal Code Error
+
+The Cortex may stop working and flash red if the code encounters an error.
+
+1. Compile the program.
+2. Check the compiler for errors or warnings.
+3. Isolate the possible causes of an error.
+4. Test each possible cause and remove root cause.
