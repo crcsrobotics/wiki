@@ -18,3 +18,9 @@ Looking to get started? [Start here.](https://github.com/crcsrobotics/wiki/blob/
 - 2.2 - Motor Setup
 - 2.3 - Sensor Setup
 - 2.4 - UART Communication
+- 2.5 - Debugging in RobotC
+- 2.6 - Robot Automation
+
+### 3 - WIRING
+
+- 3.1 - Motor Wiring
