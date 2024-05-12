@@ -10,4 +10,6 @@ To enable all debug menus, make sure the RobotC window menu level is set to "Sup
 To start the debug process, download the robot code to the robot and start the program. Under the "Robot" menu in the top bar, you can choose what debugger windows you wish to use.
 Debugger windows are available for monitoring variables, joystick values, and debug stream output.
 
-Text can be output using the `writeDebugStreamLine` command.
+Debug text can be output using the `writeDebugStreamLine` command.
+
+[Up Next (2.6) ->](https://github.com/crcsrobotics/wiki/blob/main/2%20-%20ROBOTC/6%20-%20COMMON%20TASKS.md)

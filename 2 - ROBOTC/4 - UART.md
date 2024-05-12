@@ -76,3 +76,5 @@ sendChar(UART1, 0x55);
 ```
 
 For more code examples using UART communication, see the [Made2Order repository](https://github.com/crcsrobotics/2022-made2order/blob/main/main.c).
+
+[Up Next (2.5) ->](https://github.com/crcsrobotics/wiki/blob/main/2%20-%20ROBOTC/5%20-%20DEBUGGING.md)
