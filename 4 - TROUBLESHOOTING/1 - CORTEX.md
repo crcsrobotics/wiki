@@ -77,3 +77,5 @@ The Cortex may stop working and flash red if the code encounters an error.
 2. Check the compiler for errors or warnings.
 3. Isolate the possible causes of an error.
 4. Test each possible cause and remove root cause.
+
+[Up Next (4.2) ->](https://github.com/crcsrobotics/wiki/blob/main/4%20-%20TROUBLESHOOTING/2%20-%VEXNET.md)
